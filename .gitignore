@@ -1,0 +1,38 @@
+# =========================
+# Usually My Local Notes
+# =========================
+*.txt
+
+# =========================
+# Standard Heavy Data & Model to ML
+# (such as dataset or binary files)
+# =========================
+*.csv
+*.tsv
+*.dat
+*.parquet
+*.json
+*.pkl
+*.joblib
+*.h5
+*.onnx
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Python & Virtual Environments
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# =========================
+# IDE & Tools
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
